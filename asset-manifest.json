@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/NeenaDev/MarketTestApp.git/static/css/main.1dfaac36.chunk.css",
+    "main.js": "/NeenaDev/MarketTestApp.git/static/js/main.3b21413e.chunk.js",
+    "main.js.map": "/NeenaDev/MarketTestApp.git/static/js/main.3b21413e.chunk.js.map",
+    "runtime-main.js": "/NeenaDev/MarketTestApp.git/static/js/runtime-main.6c34145f.js",
+    "runtime-main.js.map": "/NeenaDev/MarketTestApp.git/static/js/runtime-main.6c34145f.js.map",
+    "static/js/2.7e919d6d.chunk.js": "/NeenaDev/MarketTestApp.git/static/js/2.7e919d6d.chunk.js",
+    "static/js/2.7e919d6d.chunk.js.map": "/NeenaDev/MarketTestApp.git/static/js/2.7e919d6d.chunk.js.map",
+    "index.html": "/NeenaDev/MarketTestApp.git/index.html",
+    "precache-manifest.a7e83d1fac6f15289e729f7747d8fd05.js": "/NeenaDev/MarketTestApp.git/precache-manifest.a7e83d1fac6f15289e729f7747d8fd05.js",
+    "service-worker.js": "/NeenaDev/MarketTestApp.git/service-worker.js",
+    "static/css/main.1dfaac36.chunk.css.map": "/NeenaDev/MarketTestApp.git/static/css/main.1dfaac36.chunk.css.map",
+    "static/js/2.7e919d6d.chunk.js.LICENSE.txt": "/NeenaDev/MarketTestApp.git/static/js/2.7e919d6d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c34145f.js",
+    "static/js/2.7e919d6d.chunk.js",
+    "static/css/main.1dfaac36.chunk.css",
+    "static/js/main.3b21413e.chunk.js"
+  ]
+}
